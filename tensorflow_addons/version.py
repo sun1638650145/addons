@@ -15,12 +15,12 @@
 """Define TensorFlow Addons version information."""
 
 # Required TensorFlow version [min, max)
-INCLUSIVE_MIN_TF_VERSION = "2.11.0"
-EXCLUSIVE_MAX_TF_VERSION = "2.14.0"
+INCLUSIVE_MIN_TF_VERSION = "2.12.0"
+EXCLUSIVE_MAX_TF_VERSION = "2.15.0"
 
 # We follow Semantic Versioning (https://semver.org/)
 _MAJOR_VERSION = "0"
-_MINOR_VERSION = "22"
+_MINOR_VERSION = "23"
 _PATCH_VERSION = "0"
 
 # When building releases, we can update this value on the release branch to
